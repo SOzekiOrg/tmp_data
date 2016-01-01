@@ -4,12 +4,12 @@ WebSite構築雛型版です。
 ---
 
 # メンバー
-*S-Ozeki
-*InfoMizuUser
+★S-Ozeki(メイン)
+*InfoMizuUser（サブ）
 
 
 ## ファイル構成
 
 ## リリース方法
 
-ローカル
+ローカル2
